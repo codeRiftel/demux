@@ -1,5 +1,5 @@
-# ev
-Ev enables you to work with events in a data-oriented fashion.
+# demux
+Demux enables you to work with events in a data-oriented fashion.
 
 # Why?
 The popular way to handle events in Unity is to just use Action and use += for sub and -= for unsub.
