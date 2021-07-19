@@ -1,0 +1,9 @@
+{
+    "name": "xyz.coderiftel.demux",
+    "version": "1.0.0",
+    "description": "Demux enables you to work with events in a data-oriented fashion.",
+    "displayName": "demux",
+    "author": {"name": "coderiftel"},
+    "hideInEditor": false,
+    "keywords": ["simple", "event", "demux"]
+}

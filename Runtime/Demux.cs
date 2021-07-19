@@ -1,7 +1,6 @@
 using System;
 
-namespace ev
-{
+namespace ev {
     public class Token {
         private bool subscribed;
 
